@@ -23,7 +23,7 @@ D:\desarrollo-web\Portfolio\portfolioBack\src\main\java\com\portfolio\facu\Secur
 D:\desarrollo-web\Portfolio\portfolioBack\src\main\java\com\portfolio\facu\Security\Controller\Mensaje.java
 D:\desarrollo-web\Portfolio\portfolioBack\src\main\java\com\portfolio\facu\Security\Entity\UsuarioPrincipal.java
 D:\desarrollo-web\Portfolio\portfolioBack\src\main\java\com\portfolio\facu\Security\Entity\Rol.java
-D:\desarrollo-web\Portfolio\portfolioBack\src\main\java\com\portfolio\facu\Interface\IPersonaService.java
 D:\desarrollo-web\Portfolio\portfolioBack\src\main\java\com\portfolio\facu\Security\MainSecurity.java
 D:\desarrollo-web\Portfolio\portfolioBack\src\main\java\com\portfolio\facu\Entity\Persona.java
+D:\desarrollo-web\Portfolio\portfolioBack\src\main\java\com\portfolio\facu\Dto\dtoPersona.java
 D:\desarrollo-web\Portfolio\portfolioBack\src\main\java\com\portfolio\facu\Security\Entity\Usuario.java

@@ -1,7 +1,6 @@
 com\portfolio\facu\Entity\Persona.class
 com\portfolio\facu\FacuApplication.class
 com\portfolio\facu\Controller\PersonaController.class
-com\portfolio\facu\Interface\IPersonaService.class
 com\portfolio\facu\Security\MainSecurity.class
 com\portfolio\facu\Service\SExperiencia.class
 com\portfolio\facu\Entity\Experiencia.class
@@ -22,6 +21,7 @@ com\portfolio\facu\Security\Entity\Usuario.class
 com\portfolio\facu\Security\Entity\UsuarioPrincipal.class
 com\portfolio\facu\Security\jwt\JwtTokenFilter.class
 com\portfolio\facu\Security\Repository\iRolRepository.class
+com\portfolio\facu\Dto\dtoPersona.class
 com\portfolio\facu\Security\jwt\JwtProvider.class
 com\portfolio\facu\Security\Dto\LoginUsuario.class
 com\portfolio\facu\Repository\IPersonaRepository.class
